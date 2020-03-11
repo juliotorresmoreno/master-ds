@@ -1,0 +1,6 @@
+,Tipo de institución,Matrícula Femenina,Matrícula Masculina
+0,Centros de Formación Técnica,77525,70459
+1,Institutos Profesionales,181805,175770
+2,Universidades Cruch ,159797,173752
+3,Universidades Privadas,212905,163400
+4,Total general,=SUM(B15:B18),=SUM(C15:C18)

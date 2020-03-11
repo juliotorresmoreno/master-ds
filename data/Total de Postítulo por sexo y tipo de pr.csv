@@ -1,0 +1,5 @@
+,Sexo,Especialidad médica u odontológica,Postítulo,"Diplomado 
+(superior a un semestre)"
+0,Matrícula Total de Postítulo Mujer,2538,5072,6590
+1,Matrícula Total de Postítulo Hombre,2420,1486,4197
+2,Matrícula Total de Postítulo,=SUM(B13:B14),=SUM(C13:C14),=SUM(D13:D14)

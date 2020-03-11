@@ -1,0 +1,17 @@
+,Región,Matrícula Femenina,Matrícula Masculina
+0,XV Región,8839,8162
+1,I Región,9164,8355
+2,II Región,20948,20830
+3,III Región,5950,6083
+4,IV Región,22757,19560
+5,V Región,68502,65818
+6,Región Metropolitana,295046,287352
+7,VI Región,15176,13289
+8,VII Región,29020,22764
+9,VIII Región,84807,74583
+10,IX Región,31533,25002
+11,XIV Región,12001,10414
+12,X Región,23070,16813
+13,XI Región,1168,819
+14,XII Región,4051,3537
+15,Total general,=SUM(B23:B37),=SUM(C23:C37)

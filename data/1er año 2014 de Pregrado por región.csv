@@ -1,0 +1,17 @@
+,Región,Centros de Formación Técnica,Institutos Profesionales,Universidades
+0,XV Región,2151,373,1975
+1,I Región,1385,1063,3023
+2,II Región,2294,4046,5644
+3,III Región,1395,668,2252
+4,IV Región,3404,4715,4515
+5,V Región,5303,15005,18293
+6,Región Metropolitana,27321,66242,69545
+7,VI Región,1843,6598,974
+8,VII Región,4052,4914,5122
+9,VIII Región,7414,15873,19324
+10,IX Región,3902,4725,7087
+11,XIV Región,1127,882,3452
+12,X Región,2980,5276,4945
+13,XI Región,457,74,421
+14,XII Región,917,273,1222
+15,Total general,=SUM(B97:B111),=SUM(C97:C111),=SUM(D97:D111)

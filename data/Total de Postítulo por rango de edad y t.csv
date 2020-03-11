@@ -1,0 +1,11 @@
+,Rango de edad,Especialidad médica u odontológica,Postítulo,"Diplomado 
+(superior a un semestre)"
+0,15 a 19 años,,1,23
+1,20 a 24 años,42,383,762
+2,25 a 29 años,2184,1858,3462
+3,30 a 34 años,2041,1542,2336
+4,35 a 39 años,548,1023,1379
+5,40 y más años,143,1742,2824
+6,Sin información,,9,1
+7,Total general,=SUM(B19:B25),=SUM(C19:C25),=SUM(D19:D25)
+8,Promedio de edad,30.5724082291246,34.9708352420217,34.8105877989987

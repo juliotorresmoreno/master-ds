@@ -1,0 +1,10 @@
+,Rango de edad,Doctorado,Magíster
+0,15 a 19 años,,
+1,20 a 24 años,113,3262
+2,25 a 29 años,1807,12167
+3,30 a 34 años,1822,10903
+4,35 a 39 años,865,7054
+5,40 y más años,932,9786
+6,Sin información,1,4
+7,Total general,=SUM(B33:B38),=SUM(C33:C38)
+8,Promedio de edad,33.5408918577361,34.0677522468267

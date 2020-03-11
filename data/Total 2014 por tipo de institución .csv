@@ -1,0 +1,6 @@
+,Tipo de institución,Pregrado,Posgrado ,Postítulo
+0,Centros de Formación Técnica,147982,,2
+1,Institutos Profesionales,351184,,6391
+2,Universidades Estatales,301336,25194,7019
+3,Universidades Privadas,344103,21612,10590
+4,Total general,=SUM(B86:B89),=SUM(C86:C89),=SUM(D86:D89)

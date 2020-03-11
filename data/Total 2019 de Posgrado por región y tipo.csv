@@ -1,0 +1,18 @@
+,Región,Doctorado,Magíster
+0,Arica y Parinacota,3,97
+1,Tarapacá,,625
+2,Antofagasta,141,599
+3,Atacama,8,41
+4,Coquimbo,78,559
+5,Valparaíso,786,3117
+6,Metropolitana,3565,28113
+7,Lib. Gral. B. O'Higgins,,
+8,Maule,227,1321
+9,Ñuble,83,351
+10,Biobío,680,3937
+11,Araucanía,240,2174
+12,Los Ríos,200,706
+13,Los Lagos,30,673
+14,Aysén,,
+15,Magallanes,7,35
+16,Total general,=SUM(B69:B84),=SUM(C69:C84)

@@ -1,0 +1,16 @@
+,Adscripción a Gratuidad,2016,2017,2018,2019,% de variación 2016 - 2019
+0,Institución adscrita a Gratuidad,368627,604339,635801,633689,=(E447-B447)/B447
+1,Centros de Formación Técnica,,65820,69880,74403,n/a
+2,Centros de Formación Técnica Estatales,,,209,1074,n/a
+3,Institutos Profesionales,,161157,171789,153920,n/a
+4,U. Cruch Estatal,174242,177931,185531,185928,=(E451-B451)/B451
+5,U. Cruch Privada,138613,141039,144287,172223,=(E452-B452)/B452
+6,U. Privadas,55772,58392,64105,43992,=(E453-B453)/B453
+7,U. (* Carrera en Convenio),,,,2149,n/a
+8,Institución no adscrita a Gratuidad,809853,572953,552013,560622,=(E455-B455)/B455
+9,Centros de Formación Técnica,141711,70957,66641,62463,=(E456-B456)/B456
+10,Institutos Profesionales,380988,213552,201315,225536,=(E457-B457)/B457
+11,Universidades Privadas,287154,288444,284057,272623,=(E458-B458)/B458
+12,Total general,=B447+B455,=C447+C455,=D447+D455,=E447+E455,=(E459-B459)/B459
+13,% de matrícula en Instituciones acreditadas,=B447/B459,=C447/C459,=D447/D459,=E447/E459,
+14,*Considera la comparación de matrícula por tipo de institución distinguiendo por situación de adscripción institucional a gratuidad por cada año.,,,,,

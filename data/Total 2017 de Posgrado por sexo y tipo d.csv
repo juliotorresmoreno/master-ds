@@ -1,0 +1,4 @@
+,Sexo,Doctorado,Magíster
+0,Matrícula Total de Posgrado Mujer,2367,21575
+1,Matrícula Total de Posgrado Hombre,3173,21601
+2,Matrícula Total 2017 de Posgrado,=SUM(B20:B21),=SUM(C20:C21)

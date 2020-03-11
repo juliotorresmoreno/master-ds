@@ -1,0 +1,17 @@
+,Región,Especialidad médica u odontológica,Postítulo,Diplomado (superior a un semestre)
+0,XV Región,,,4
+1,I Región,,,2
+2,II Región,,248,256
+3,III Región,,,3
+4,IV Región,40,17,128
+5,V Región,331,500,259
+6,Región Metropolitana,3172,3104,5127
+7,VI Región,,13,
+8,VII Región,27,7118,824
+9,VIII Región,265,497,365
+10,IX Región,116,222,226
+11,XIV Región,37,196,53
+12,X Región,29,246,14
+13,XI Región,,,
+14,XII Región,,,
+15,Total general,=SUM(B46:B60),=SUM(C46:C60),=SUM(D46:D60)

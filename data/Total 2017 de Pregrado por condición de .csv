@@ -1,0 +1,14 @@
+,Condición de acreditación,Matrícula de Pregrado  2016,Matrícula de Pregrado  2017,% de variación 2016 - 2017
+0,Acreditada 2017,1056652.0,1063264.0,=(C154-B154)/B154
+1,Centros de Formación Técnica,121231.0,120218.0,=(C155-B155)/B155
+2,Institutos Profesionales,323505.0,320670.0,=(C156-B156)/B156
+3,U. Cruch Estatales,174242.0,177403.0,=(C157-B157)/B157
+4,U. Cruch Privadas,138613.0,141035.0,=(C158-B158)/B158
+5,U. Privadas,299061.0,303938.0,=(C159-B159)/B159
+6,No Acreditada 2017,121828.0,113463.0,=(C160-B160)/B160
+7,Centros de Formación Técnica,20480.0,16559.0,=(C161-B161)/B161
+8,Institutos Profesionales,57483.0,54040.0,=(C162-B162)/B162
+9,U. Cruch Estatales,0.0,528.0,n/a
+10,U. Privadas,43865.0,42336.0,=(C164-B164)/B164
+11,Total general,1178480.0,1176727.0,=(C165-B165)/B165
+12,*Considera la comparación por tipo de insitución distinguiendo por situación de acreditación institucional a 2 de mayo de 2017.,,,

@@ -1,0 +1,13 @@
+,Condición de adscripción a Gratuidad,Matrícula de Pregrado  2016,Matrícula de Pregrado  2017,% de variación 2016 - 2017
+0,Adscritas a Gratuidad,590925.0,604335.0,=(C181-B181)/B181
+1,Centros de Formación Técnica,66258.0,65820.0,=(C182-B182)/B182
+2,Institutos Profesionales,156040.0,161157.0,=(C183-B183)/B183
+3,U. Cruch Estatales,174242.0,177931.0,=(C184-B184)/B184
+4,U. Cruch Privadas,138613.0,141035.0,=(C185-B185)/B185
+5,U. Privadas,55772.0,58392.0,=(C186-B186)/B186
+6,No adscritas a Gratuidad,587555.0,572392.0,=(C187-B187)/B187
+7,Centros de Formación Técnica,75453.0,70957.0,=(C188-B188)/B188
+8,Institutos Profesionales,224948.0,213553.0,=(C189-B189)/B189
+9,U. Privadas,287154.0,287882.0,=(C190-B190)/B190
+10,Total general,1178480.0,1176727.0,=(C191-B191)/B191
+11,*Considera la comparación por tipo de institución distinguiendo por situación de adscripción a Gratuidad - admisión 2017.,,,

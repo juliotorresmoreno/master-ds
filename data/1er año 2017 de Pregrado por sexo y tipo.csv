@@ -1,0 +1,4 @@
+,Sexo,Centros de Formación Técnica,Institutos Profesionales,Universidades
+0,Matrícula de 1er año Mujer,30307,60813,83852
+1,Matrícula de 1er año Hombre,29727,58819,71691
+2,Matrícula de 1er año de Pregrado,=SUM(B12:B13),=SUM(C12:C13),=SUM(D12:D13)

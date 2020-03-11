@@ -1,0 +1,17 @@
+,Región,Matrícula 1er año 2015 Femenina,Matrícula 1er año 2015 Masculina
+0,XV Región,2474,2225
+1,I Región,2704,2574
+2,II Región,5293,5882
+3,III Región,1849,1968
+4,IV Región,5856,5921
+5,V Región,18493,18644
+6,Región Metropolitana,78886,81306
+7,VI Región,4727,4634
+8,VII Región,7926,6382
+9,VIII Región,21969,20661
+10,IX Región,8787,7297
+11,XIV Región,2987,2555
+12,X Región,7811,5920
+13,XI Región,575,308
+14,XII Región,1331,1245
+15,Total general,=SUM(B135:B149),=SUM(C135:C149)

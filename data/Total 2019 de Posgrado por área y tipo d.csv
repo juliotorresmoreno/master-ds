@@ -1,0 +1,12 @@
+,Área,Doctorado,Magíster
+0,Administración y Comercio,105,11324
+1,Agropecuaria,332,471
+2,Arte y Arquitectura,88,1061
+3,Ciencias Básicas,2006,1418
+4,Ciencias Sociales,717,6028
+5,Derecho,182,2823
+6,Educación,315,10628
+7,Humanidades,637,1092
+8,Salud,468,3189
+9,Tecnología,1198,4314
+10,Total general,=SUM(B46:B55),=SUM(C46:C55)

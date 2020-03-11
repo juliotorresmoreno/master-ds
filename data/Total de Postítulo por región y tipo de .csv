@@ -1,0 +1,18 @@
+,Región,Especialidad médica u odontológica,Postítulo,"Diplomado 
+(superior a un semestre)"
+0,Arica y Parinacota,,,2
+1,Tarapacá,,56,16
+2,Antofagasta,,203,242
+3,Atacama,,,
+4,Coquimbo,34,,150
+5,Valparaíso,400,374,295
+6,Metropolitana,3528,5340,6823
+7,Lib. Gral. B. O'Higgins,,27,
+8,Maule,101,134,164
+9,Biobío,556,253,1853
+10,Araucanía,173,39,822
+11,Los Ríos,107,20,143
+12,Los Lagos,59,112,269
+13,Aysén,,,
+14,Magallanes,,,8
+15,Total general,=SUM(B55:B69),=SUM(C55:C69),=SUM(D55:D69)

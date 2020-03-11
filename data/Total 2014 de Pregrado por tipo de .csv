@@ -1,0 +1,7 @@
+,Jornada,Centros de Formación Técnica,Institutos Profesionales,Universidades
+0,Diurno,83562,177584,548182
+1,Vespertino,63108,155592,90416
+2,Semipresencial,469,5094,1065
+3,A Distancia,376,11662,2702
+4,Otro,467,1252,3074
+5,Total general,=SUM(B69:B73),=SUM(C69:C73),=SUM(D69:D73)

@@ -1,0 +1,4 @@
+,Sexo,Centros de Formación Técnica,Institutos Profesionales,Universidades
+0,Matrícula Total de Pregrado Mujer,71873,188029,358756
+1,Matrícula Total de Pregrado Hombre,64904,186681,306484
+2,Matrícula Total Pregrado,=SUM(B6:B7),=SUM(C6:C7),=SUM(D6:D7)
