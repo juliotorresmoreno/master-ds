@@ -1,4 +1,0 @@
-,Sexo,Doctorado,Magíster
-0,Matrícula Total de Posgrado Mujer,2519,20729
-1,Matrícula Total de Posgrado Hombre,3411,20161
-2,Matrícula Total 2018 de Posgrado,=SUM(B20:B21),=SUM(C20:C21)

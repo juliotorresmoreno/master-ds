@@ -1,4 +1,0 @@
-,Género,Doctorado,Magíster
-0,Matrícula de 1er año de Posgrado Femenina,401,6488
-1,Matrícula de 1er año de Posgrado Masculina,543,6136
-2,Matrícula de 1er año de Posgrado,=SUM(B12:B13),=SUM(C12:C13)
